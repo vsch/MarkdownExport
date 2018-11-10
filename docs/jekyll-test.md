@@ -5,10 +5,11 @@ permalink:   jekyll-test.html
 title:       jekyll-test
 ---
 
-{% include "tests.html" %}
+{% include "../_includes/tests.html" %}
 
 [Links](../_includes/links.html)
 
-[Other](other.md)
+[Other](other.html)
 
-[Unresolved](unresolved.md)
+[Unresolved](unresolved.html)
+

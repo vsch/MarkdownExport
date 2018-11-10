@@ -2,8 +2,8 @@
 <project version="4">
   <component name="MarkdownExportedFiles">
     <htmlFiles>
-      <exportedFile path="$PROJECT_DIR$/export/jekyll-test.html" settingsVersion="ED6B5AAF-2E592151" />
-      <exportedFile path="$PROJECT_DIR$/export/other.html" settingsVersion="ED6B5AAF-2E592151" />
+      <exportedFile path="$PROJECT_DIR$/export/other.html" settingsVersion="6D6B5AAF-2E592151" />
+      <exportedFile path="$PROJECT_DIR$/export/jekyll-test.html" settingsVersion="6D6B5AAF-2E592151" />
     </htmlFiles>
     <imageFiles />
     <otherFiles />

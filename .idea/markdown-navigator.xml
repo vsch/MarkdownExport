@@ -9,7 +9,7 @@
     <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="true" />
-        <option name="ANCHORLINKS" value="true" />
+        <option name="ANCHORLINKS" value="false" />
         <option name="ASIDE" value="true" />
         <option name="ATXHEADERSPACE" value="true" />
         <option name="AUTOLINKS" value="true" />
@@ -43,7 +43,7 @@
         <option name="FLEXMARK_FRONT_MATTER" value="false" />
         <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
         <option name="GFM_TABLE_RENDERING" value="false" />
-        <option name="GITBOOK_URL_ENCODING" value="false" />
+        <option name="GITBOOK_URL_ENCODING" value="true" />
         <option name="GITHUB_LISTS" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
         <option name="GITLAB_EXT" value="false" />
